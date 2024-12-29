@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/liblaf/ai-cli/compare/v0.0.2...v0.0.3) (2024-12-29)
+
+
+### ⬆️ Dependencies
+
+* **deps:** update astral-sh/setup-uv action to v5 ([#13](https://github.com/liblaf/ai-cli/issues/13)) ([1515cf6](https://github.com/liblaf/ai-cli/commit/1515cf62ff3270211e09e299e85b46f714b7507d))
+
 ## [0.0.2](https://github.com/liblaf/ai-cli/compare/v0.0.1...v0.0.2) (2024-11-30)
 
 
